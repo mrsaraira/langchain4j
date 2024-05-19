@@ -11,6 +11,7 @@ public enum OpenAiChatModelName {
     GPT_3_5_TURBO_16K_0613("gpt-3.5-turbo-16k-0613"),
 
     GPT_4("gpt-4"), // alias
+    GPT_4_O("gpt-4o"),
     GPT_4_0314("gpt-4-0314"),
     GPT_4_0613("gpt-4-0613"),
 
